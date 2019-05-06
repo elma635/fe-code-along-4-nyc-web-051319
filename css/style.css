@@ -92,7 +92,7 @@ it'll always be 100% in parent confines */
   wdith: 960px;
   margin: 0 auto; /*first value = top & bottom, 2nd value = left & right */
   /* auto margin is allowing it to center when shrinking or changing broswer window */
-  background: #eee;
+  
 }
 
 /* CLASSES TO CREATE DIFF SIZE COLUMNS */
